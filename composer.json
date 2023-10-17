@@ -1,0 +1,17 @@
+{
+    "name": "baptiste/composer3",
+    "autoload": {
+        "psr-4": {
+            "Baptiste\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baptiste Delefosse",
+            "email": "baptiste.delefosse@hotmail.fr"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+}
